@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\obj\Debug\net5.0\InvoiceTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\obj\Debug\net5.0\InvoiceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\obj\Debug\net5.0\InvoiceTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\obj\Debug\net5.0\InvoiceTest.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\obj\Debug\net5.0\InvoiceTest.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\bin\Debug\net5.0\InvoiceTest.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\bin\Debug\net5.0\InvoiceTest.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\bin\Debug\net5.0\InvoiceTest.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\bin\Debug\net5.0\InvoiceTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\bin\Debug\net5.0\InvoiceTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\bin\Debug\net5.0\ref\InvoiceTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\bin\Debug\net5.0\InvoiceTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\obj\Debug\net5.0\InvoiceTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\obj\Debug\net5.0\ref\InvoiceTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\obj\Debug\net5.0\InvoiceTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Csharp-Constructor\InvoiceTest\obj\Debug\net5.0\InvoiceTest.genruntimeconfig.cache
